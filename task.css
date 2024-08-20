@@ -1,0 +1,87 @@
+body{
+    background-image: url(https://www.baltana.com/files/wallpapers-32/RRR-Movie-Ram-Charan-Background-Wallpaper-125760.jpg);
+    background-size: cover;
+}
+header nav a{
+    font-style: italic;
+}
+.j{
+    position: absolute;
+}
+.jl{
+    position: fixed;
+    top: 0;
+    background:linear-gradient(to left,rgb(154, 101, 154),rgb(214, 130, 144),rgb(29, 142, 102));
+    width: 99%;
+}
+.jlp{
+    display: inline-block;
+    margin-left: 200px;
+}
+.head{
+    display: inline-block;
+    margin-left: 500px;
+}
+.header{
+    padding: 2px;
+    position: sticky;
+    top: 0;
+    box-shadow: 5px 5px 5px rgb(79, 108, 98);
+    z-index: 2;
+}
+.box{
+    background:linear-gradient(to right,rgb(201, 188, 201),rgb(73, 23, 31),rgb(145, 186, 173));
+    margin-top: 100px;
+    border-radius: 5px;
+    display: block;
+    padding: 15px;
+}
+.box2{
+    text-align: center;
+}
+.box3{
+    text-align: end;
+}
+.para{
+    width: 97%;
+    color: white;
+    padding: 20px;
+    display: block;
+    margin-top: 10px;
+    border: 2px solid;
+    border-radius: 5%;
+}
+.RC img{
+    width: 1450px;
+    height: 200px;
+    border: 2px solid;
+    margin-top: 20px;
+    border-radius: 7px;
+    object-fit: contain;
+    
+}
+.RC1 img{
+    width: 1450px;
+    height: 200px;
+    border: 2px solid;
+    object-fit: fill;
+    margin-top: 10px;
+    border-radius: 7px;
+}
+.RC2 img{
+    width:1450px;
+    height: 200px;
+    object-fit: cover;
+    border: 2px solid;
+    border-radius: 7px;
+    margin-top: 10px;
+}
+.paragraph{
+    display: block;
+    margin-top: 10px;
+    border: 2px solid;
+    font-size: 20px;
+    background-color: rgb(158, 210, 237);
+    padding: 20px;
+    direction: rtl;
+}
